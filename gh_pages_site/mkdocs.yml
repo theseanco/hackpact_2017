@@ -1,0 +1,7 @@
+site_name: Hackpact_2017
+
+pages:
+    - About:
+        - 'About This Project': 'index.md'
+        - 'List of ideas/topics/themes': 'ideas.md'
+        - 'License': 'License.md'
