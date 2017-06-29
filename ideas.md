@@ -61,6 +61,11 @@ open sourcing and changing. Not often done by the people who participate in art,
 
 - An album that is my hard drive tree encoded for a bunch of different audio formats!
 
+
+A smartphone that is a brick. A brick that communicates to a whole bunch of APIs by arbitrary calls based on accelerometer data.
+
+Brickternate reality - a brick that you put on your face where you can see through the holes and in the holes are beautiful descriptions from VC firms of what alternate reality is, accompanied by a dreadful binaural soundscape of absolutely nofhing.
+
 From Tom:
 
 1. packets time browsers phenomena
