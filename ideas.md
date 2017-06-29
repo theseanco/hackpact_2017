@@ -1,4 +1,4 @@
-A computer that you plug into the ground and it writes the rules for L-systems which make beautiful music. 
+A computer that you plug into the ground and it writes the rules for L-systems which make beautiful music.
 
 A thing that converts musical patterns into a whole bunch of image formats following Rosa Menkman's vernacular of File Formats
 
@@ -6,7 +6,7 @@ map of a filesystem based on change and relation - a way to document my PhD?
 
 A really cool project idea is to smash through all unicode as fast as possible, or make some kind of piece of work around it. Scrolling unicode characters look absolutely great.
 
-open sourcing and changing. Not often done by the people who participate in art, so maybe some kind of art operating system? one that auto-commits to git once it has been modified by a person? 
+open sourcing and changing. Not often done by the people who participate in art, so maybe some kind of art operating system? one that auto-commits to git once it has been modified by a person?
     - this could ask people to create their own experience and also maybe create things from experiences that have already taken place, but that could be in a nice abstract kind of way?
     - some kind of collective experience enabled through version control?
     - examining principles of open source(ry) through the fundamental parts of the work?    
@@ -21,7 +21,7 @@ open sourcing and changing. Not often done by the people who participate in art,
 
 - train a neural network to say free software bullshit and then release it as free software
 
-- A direct sonification of harassment tweets directed against marginalised communities in tech. Literally aplay *.txt - harassment as 'background noise of the internet'
+- A direct sonification of harassment tweets directed against marginalised communities in tech. Literally aplay \*.txt - harassment as 'background noise of the internet'
 
 - An induction mic sonification of an abused thinkpad which is turned into messages somehow. Like the cry of the computer? Something like that.
 
@@ -31,7 +31,7 @@ open sourcing and changing. Not often done by the people who participate in art,
 
 - [Lavarand](https://en.wikipedia.org/wiki/Lavarand) - A material/digital linkup used in random number generation
 
-- Hedy Lamarr and George Antheil and frequency-hopping. 
+- Hedy Lamarr and George Antheil and frequency-hopping.
 
 - What does free software mean?
 
@@ -49,15 +49,20 @@ open sourcing and changing. Not often done by the people who participate in art,
 
 - Field Recording and working with field recording, I haven't done enough of this lately.
 
-- The work of Zimoun, micro-macro synthesis, applied to music 
+- The work of Zimoun, micro-macro synthesis, applied to music
 
 - Music with Serial - Raspberry Pi/Arduino Random Synth? This could feed into the 'small patterns' thing, sonification and display of small patterns. Display of patterns as random garbage.
 
+- Raw data through file formats is a thing I keep thinking about. How to articulate this in a project
+
+- Patents, copyright and data: The continual copying of that Gnarls Barkley song into /dev/null is a nice touch.
+
+- A work about the reliance of artists on Apple technology. Talk of 'openness' when using these systems is something that's still absurd
+
+- An album that is my hard drive tree encoded for a bunch of different audio formats!
 
 From Tom:
 
-1. packets time browsers phenomena 
+1. packets time browsers phenomena
 2. reading and re-reading
 3. hack materials (a hack based on the ingredients of a ‘successful’ hack e.g. pizza, mentors, sponsors, prizes, competition)
-
-
