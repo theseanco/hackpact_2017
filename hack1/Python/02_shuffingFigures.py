@@ -16,5 +16,5 @@ string = 'string                                                   '
 
 while True:
     sys.stdout.write(shuffle_word(string))
-    sys.stdout.flushw
+    sys.stdout.flush()
     time.sleep(0.003)

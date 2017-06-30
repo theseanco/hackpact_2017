@@ -1,5 +1,11 @@
 # Hackpact Day 1 - 'Sonic Pattern'
 
+## Documentation
+
+
+
+## Notes
+
 Inspired by '[Screenbashing](https://vimeo.com/148626379)', a performance by Magno I saw at ICLC 2016.
 
 Screenbashing writes a series of simple C programs in transparent terminals which display repeated symbol patterns.

@@ -4,4 +4,6 @@ pages:
     - About:
         - 'About This Project': 'index.md'
         - 'List of ideas/topics/themes': 'ideas.md'
-        - 'License': 'License.md'
+        - 'License': 'license.md'
+    - Hacks:
+        - 'Hack 1: Sonic Pattern': 'hack1.md'

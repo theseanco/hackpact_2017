@@ -44,6 +44,8 @@ try :
 	global patternString
 	while 1 :
 		sys.stdout.write(patternString)
+        sys.stdout.flush()
+        time.sleep(0.03)
 
 
 except KeyboardInterrupt :
