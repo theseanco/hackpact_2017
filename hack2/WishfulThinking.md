@@ -56,3 +56,57 @@ From training diverse workforces to understand each other to putting product des
 - https://www.worldviz.com/stanford-leverages-worldviz-vr-to-create-empathy-and-change/
 
 'Today, we are excited to share Stanford’s most recent virtual reality simulation leveraging the transformational and educational powers of VR to spread awareness of the pressing issue of global climate change. '
+
+- https://www.usatoday.com/story/tech/news/2016/04/08/virtual-reality-tested-tool-confront-racism-sexism/82674406/
+
+Virtual reality tested by NFL as tool to confront racism, sexism
+
+'Virtual reality can bring us to the top of Mount Everest. But Stanford University researchers believe it can conquer an even steeper challenge: racial and sexual discrimination.'
+
+'We’ll start using this as another teaching tool later this year," says Vincent, whose league still struggles with low numbers of women and minorities in top positions. "We want to be known as the best place to work.'
+
+_An interesting couple of counterpoints from this article:_
+
+'A January paper in the Journal of Social Psychology reported on a trio of experiments that showed "high-status groups," namely white males, were threatened by companies that stressed their pro-diversity message during mock interviews.'
+
+'Fortune 500 companies and startups alike spend more than a collective $8 billion a year on in-house diversity training sessions that are largely ineffective and often counterproductive, says Frank Dobbin, a Harvard University sociology professor who has conducted numerous studies on diversity programs that date back decades.'
+
+'Adding to the timely nature of this lab work is a new sense of mission at many companies to solve workforce inequality issues, especially at technology companies. For example, despite CEO-led efforts to radically improve diversity numbers at chip-maker Intel, women make up just 24% of employees, African-Americans 3.5% and Hispanics 8.3%.'
+
+- https://gizmodo.com/virtual-reality-now-lets-you-live-the-news-1747206008
+
+'It’s hard to deny the emotional impact that absorbing a news story in virtual reality has. In “The Displaced,” you’re meeting real kids who not only explain in their own words and voices the tragedy of their situation, but you’re actually in the rubble of their classrooms with them, and you’re actually in South Sudanese fields with the families, literally looking up into the sky and watching the aid packages parachute down from the planes above. You’re actually surrounded by real humans who are overjoyed, talking to each other, scrambling in the grass at your ankles to open up the dropped boxes of supplies.
+
+In short, it really is like you’re there.'
+
+- http://www.telegraph.co.uk/women/life/men-are-unlocking-the-virtual-reality-of-being-a-woman-get-ready/
+
+'This is a very real example of the kind of immersive experience that Virtual Reality (VR) can provide. From tackling sexism, racism, and ageism, to gender-blind hiring processes and more flexible working opportunities, the possibilities are endless and exciting – particularly for women.'
+
+'Right now the VR industry itself is enjoying an almost utopian, discrimination-free existence, according to a number of women I spoke to (though the majority of tech workers are male, of course).'
+
+'“There are no rules, you don’t have to come from a certain background” explains Julie Heyde, a game developer at VR Unicorns. “It’s the wild west.“
+
+So much so that horse-riding Heyde wears her jodhpurs to work and no one notices. Probably for the same reason that no one cares that she’s a girl: Heyde and her team spend their days with headsets on.'
+
+- http://www.adweek.com/digital/how-virtual-reality-inspiring-donors-dig-deep-charitable-causes-171641/
+
+'How Virtual Reality Is Inspiring Donors to Dig Deep for Charitable Causes
+
+A 360-degree view of the world stirs empathy and action'
+
+'After dinner and before the fundraising portion of the evening began, volunteers from the organization passed around Samsung Gear VR headsets so attendees could watch a virtual reality movie documenting a week in the life of a 13-year-old girl, Selam, and her family who were getting clean water for the first time. The video begins with the girl—whose mother died a year earlier—collecting water she fears is full of leeches and diseases. It ends with a team of workers arriving by truck to drill the well before water gushes into the hot desert sky.'
+
+'Later that night, donors committed to giving $2.4 million, much more than Charity: Water had expected. That was the first time but not the last, Pent said, that the film led to higher-than-expected donations. During a visit to Charity: Water's office, one donor, who had already committed to giving $60,000, watched the film and was so moved by the story that he gave $400,000 instead.'
+
+'"It's so hard to understand the water crisis when you just hear statistics, and it's about individuals who are going through this just because of where they live," Pent said. "Any one of us could have been born there, and we weren't. But we have the ability to help."'
+
+- https://bdaily.co.uk/articles/2017/07/03/virtual-reality-trial-set-to-revolutionise-care-for-older-people
+
+'Virtual reality trial set to revolutionise care for older people
+
+Residents at a _luxury_ Chorley retirement village have taken part in a virtual reality trial which is set to revolutionise care for older people and those with dementia.'
+
+- https://twitter.com/CEOSleepout/status/877812107168763904
+
+'Our Sydney CEOs using virtual reality to get a glimpse of the realities faced by the people who experience [homelessness] everyday. #CEOSleepoutAu'

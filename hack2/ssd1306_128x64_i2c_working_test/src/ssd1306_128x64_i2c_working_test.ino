@@ -60,7 +60,12 @@ void loop() {
   display.setTextSize(2);
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
+  display.println("hi laura");
   display.print(heading * 180 / M_PI);
+  display.println(" ");
+  display.println(" ");
+  display.setTextSize(1);
+  display.println("heck");
 
   // text display tests
   // display.setTextSize(1);
