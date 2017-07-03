@@ -1,0 +1,3 @@
+- https://thenewinquiry.com/voyeur-reality/
+
+'Virtual Reality satisfies Western voyeurism without consequence. It will not blunt the global fervor to hinder the movement of bodies.'
