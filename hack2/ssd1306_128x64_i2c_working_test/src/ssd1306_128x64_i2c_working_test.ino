@@ -24,8 +24,9 @@ All text above, and the splash screen must be included in any redistribution
 #include <Adafruit_SSD1306.h>
 // Add magnetometer libraries
 #include <HMC5883L.h>
+#include <SD.h>
 
-#define OLED_RESET 4
+#define OLED_RESET 8
 Adafruit_SSD1306 display(OLED_RESET);
 
 #if (SSD1306_LCDHEIGHT != 64)
@@ -35,16 +36,23 @@ Adafruit_SSD1306 display(OLED_RESET);
 //magnetometer declarations
 HMC5883L mag;
 int16_t mx, my, mz;
+const int chipSelect = 4;
 
 void setup()   {
+  SD.begin(chipSelect);
   Wire.begin();
-  Serial.begin(38400);
+  Serial.begin(9600);
+
+  delay(1000);
+
+
 
   //initialize magnetometer
   mag.initialize();
   // by default, we'll generate the high voltage from the 3.3v line internally! (neat!)
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);  // initialize with the I2C addr 0x3D (for the 128x64)
   // init done
+
 
   }
 
@@ -57,16 +65,31 @@ void loop() {
   if (heading < 0)
     heading += 2 * M_PI;
 
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.setCursor(0, 0);
-  display.println("hi laura");
-  display.print(heading * 180 / M_PI);
-  display.println(" ");
-  display.println(" ");
-  display.setTextSize(1);
-  display.println("heck");
+  // display.setTextSize(2);
+  // display.setTextColor(WHITE);
+  // display.setCursor(0, 0);
+  // display.println("hi laura");
+  // display.print(heading * 180 / M_PI);
+  // display.println(" ");
+  // display.println(" ");
+  // display.setTextSize(1);
+  // display.println("heck");
+  // Serial.println(heading * 180 / M_PI);
 
+  int randomNumber = random(0, 100);
+
+  String fileString = "wrong_"+String(randomNumber
+  )+".txt";
+
+  File dataFile = SD.open(fileString);
+
+  // if the file is available, write to it:
+  if (dataFile) {
+    while (dataFile.available()) {
+      Serial.write(dataFile.read());
+    }
+    dataFile.close();
+  }
   // text display tests
   // display.setTextSize(1);
   // display.setTextColor(WHITE);

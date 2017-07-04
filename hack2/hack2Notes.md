@@ -49,7 +49,7 @@ Okay, fine. Think i can use an accelgyro for this.
 
 I have a whole bunch of Accelgyros handy. I'll download the i2cdevlib MPU6050 library.
 
-Actually maybe a compass is better here. It's actually more connected to physical space - hence the brick(?)
+Actually maybe a compass is better here. It's adatalogctually more connected to physical space - hence the brick(?)
 
 The magnetometer works with the screen nicely. Now I need to gather some quotes.
 
@@ -58,3 +58,13 @@ These will be listed in 'WishfulThinking.md'
 A trio of screens would be nice
 
 Wishful Thinking | Problem | Criticism
+
+These are listed as such as markdown files in the repo
+
+These are also listed on the Arduino SD card as
+
+wrong | reality | criticism
+
+\*.txt
+
+I need a shell script to split these markdown files by line and then read them to the Arduino, rather than have the Arduino do the parsing.
