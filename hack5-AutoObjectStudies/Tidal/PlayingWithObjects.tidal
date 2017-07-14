@@ -1,0 +1,37 @@
+
+d6 $ sound "object*9" |+| ( slow 2 $ speed "1.7 1 6 9 5 7 8 10 11 12 13 14 15 16 17") |+| gain "2"
+
+d6 silence
+
+d1 $ jux ((|*| speed 0.5)) $ sometimesBy 0.25 (jux (0.125 ~>)) $ s "object:3(<3 13 3 3 5 7>,<8 16 8 8 8 8>)" # cut "1" # (slow 4 $ speed "2 3 5 1.5 2.89 1.5")
+
+d2 $ (|*| ( slow 20 $ speed "[10 40 20 24 11 9 5 8 21]")) $ every 2 (0.125 ~>)
+$ sometimes rev $ jux (sometimes (iter 11)) $ jux rev $ jux ((|*| speed "4.15")) $ slow 5
+$ sound $ samples "object?*132" (irand 40)
+
+d2 $ jux (iter 6) $ sound "object:4(3,8)" # gain "2" # speed "1"
+
+d3 $ jux (iter 4) $ sound "object:4(3,8)" # gain "2" # speed "8"
+
+
+d1 $ spin (2) $ slow 2 $ sound "[bd(<3 3 3 3 3 3 12>,16), hh:8*16]"
+
+d1 silence
+
+d4 $ (|*| speed "8.2") $ degrade $ sometimesBy 0.1 (density 2 ) $ sound "bass2*2" # ( slow 4 $ speed "[1.4 -1.4 1.4 1.4 1.4]")
+
+d2 silence
+
+d2 $ sometimes (0.25 ~>) $ degrade $ every 4 (density 2) $ up "0 [7, 24]" # sound "lbass"
+
+d4 $ jux brak $ jux (0.125 ~>) $ slow 2 $ n "[[a3, e3]?, [<a5 ~> c4 g5 a5 g3 e5](6,8)]" # s "supersaw" # gain "0.7" # resonance "0.9"
+
+hush
+
+d1 silence
+
+d4 $ sound "lbass*2" # speed "4"
+
+d4 silence
+
+hush

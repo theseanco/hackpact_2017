@@ -23,7 +23,7 @@ open sourcing and changing. Not often done by the people who participate in art,
 
 - A direct sonification of harassment tweets directed against marginalised communities in tech. Literally aplay \*.txt - harassment as 'background noise of the internet'
 
-- An induction mic sonification of an abused thinkpad which is turned into messages somehow. Like the cry of the computer? Something like that.
+- An induction mic sonification of an abused thinkpad which is turned into messages somehow. Like the cry of the computer? Something like that. I dunno. 
 
 - Absurdist small sonic and visual patterns based on Magno's Screenbashing performance
 
