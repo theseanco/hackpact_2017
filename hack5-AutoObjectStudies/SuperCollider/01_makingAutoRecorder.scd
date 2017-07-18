@@ -92,8 +92,8 @@ SynthDef("help-Diskout", {arg bufnum;
 
 	SendReply.kr(onsets,'/mic_onset');
     // You'll hear percussive "ticks" whenever an onset is detected
-	pips = PlayBuf.ar(2,~kick,1,onsets);
-    Out.ar(0, Pan2.ar(pips, 0.75, 1));
+	//pips = PlayBuf.ar(2,~kick,1,onsets);
+    Out.ar(0,0);
 }.play;
 )
 
@@ -106,6 +106,9 @@ SynthDef("help-Diskout", {arg bufnum;
 //an OSCdef to control the recording - a test function
 //this should keep track of ~recording so that recording isn't done multiple times
 (
+SynthDef("help-Diskout", {arg bufnum;
+	DiskOut.ar(bufnum, SoundIn.ar(1));
+}).send(s);
 ~recording = 0;
 OSCdef(\onsetResponder, { |msg, rand| rand = rrand(1,40).postln;
 	if( rand > 35 && ~recording == 0,
@@ -130,11 +133,13 @@ OSCdef(\onsetResponder, { |msg, rand| rand = rrand(1,40).postln;
 				("recording"+~fileNumber.asString+"saved!").postln;
 				~fileNumber = ~fileNumber + 1;
 				//this re-loads all sound files in the dir
+				1.wait;
 				~dirt.loadSoundFiles("/home/smc/src/github/hackpact_2017/hack5-AutoObjectStudies/object/");
 			}).start;
 	});
 }, '/mic_onset');
 )
+
 
 //free the onset detection function
 ~onsetDetect.free;
